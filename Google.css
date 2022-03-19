@@ -1,0 +1,86 @@
+/* Barra de navegacion */
+nav div img{
+    width: 20px;
+}
+nav div{
+    display: inline-block;
+    margin: 0px 7px;
+}
+nav{
+    float: right;
+}
+.navtop{
+    vertical-align: 5px;
+}
+.decorationnav{
+    text-decoration: none;
+    color: black;
+}
+.acceder{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(12, 140, 245);
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+/* Logo Google */
+section center img{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+/* Barra de busqueda y botones */
+.center{
+    text-align: center;
+}
+input{
+    width: 450px;
+    height: 30px;
+}
+.search{
+    width: 15px;
+}
+.voice{
+    width: 14px;
+}
+.searchtext{
+    display: inline-block;
+}
+button{
+    padding: 8px 10px;
+    border-radius: 3px;
+    border-style: hidden;
+    margin: 5px;
+    margin-top: 0px;
+}
+button:hover{
+    background-color: rgb(247, 247, 247);
+}
+/* Ofrecido por Google en: Español Latinoamérica */
+section p{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 200px;
+}
+/* Footer */
+footer{
+    background-color: rgb(245, 245, 245);
+}
+footer div{
+    display: inline-block;
+}
+.mexico{
+    color: rgb(87, 87, 87);
+    margin: 10px;
+}
+.izquierda{
+    float: right;
+    text-decoration: none;
+}
+.decoration{
+    color: rgb(87, 87, 87);
+    text-decoration: none;
+    margin: 10px;
+}
+a:hover{
+    text-decoration: underline;
+}
